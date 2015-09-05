@@ -1,0 +1,64 @@
+
+
+
+
+body {
+    background-image: url(b005.gif);
+}
+
+header {
+    border-bottom:black 5px solid;
+    padding:5px;
+    text-align:center;
+}
+
+h1 {
+    font-family:Segoe Script;
+    text-align:center;
+}
+
+
+
+#content {
+    width:960px;
+    padding:40px 80px;
+    margin:auto;
+}
+
+#cent {
+    text-align:center;
+}
+
+h2 {
+    font-family:あんずもじ等幅;
+    border-bottom:#94c8b1 2px solid;
+    border-left:#94c8b1 10px solid;
+    padding:10px 15px;
+    margin-bottom:10;
+    text-align:left;
+}
+
+#moji {
+    margin:auto;
+    font-family:あんずもじ等幅;
+    font-size:150%;
+    text-align:center;
+}
+
+#history {
+        margin:auto;
+}
+
+#work_h {
+    width:300px;
+    border-bottom:#94c8b1 2px solid;
+    text-align:center;
+    padding-top:10px;
+    margin:auto;
+    margin-bottom:10px;
+}
+
+#explain {
+    width:600px;
+    margin:auto;
+}
